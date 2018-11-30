@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyRollingBall</string>
+    <string name="comment">頑張れ</string>
+    <string name="startbutton">スタート</string>
+</resources>
